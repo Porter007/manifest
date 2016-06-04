@@ -1,0 +1,5 @@
+<devices>
+<vendor Name="Samsung">
+        <device FullName="Galaxy Grand 2" CodeName="ms013g"/>
+    </vendor>
+</devices>
